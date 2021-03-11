@@ -1,5 +1,5 @@
 # app-profile-swift
-this is a app to iPhone and iPad to variations in diferentes screen
+this is a app to iPhone and iPad to variations in diferentes screen Responsive
 
 IPAD SCREEN
 
